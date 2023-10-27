@@ -1,6 +1,6 @@
 # CALCULADORA DE IMC
 
-Projeto de uma calculadora de IMC + classificação do IMC com base na Organização Mundial de Saúde (OMS). 
+Projeto simples e para fins de estudo de uma calculadora de IMC com a classificação do IMC com base na Organização Mundial de Saúde (OMS).
 
 ## :wrench: Linguagens e Ferramentas
 
